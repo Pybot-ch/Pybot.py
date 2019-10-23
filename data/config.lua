@@ -1,8 +1,8 @@
 do local _ = {
-  owner = 785762243,
-  sudoers = {785762243,662178055,705379059,792001251},
-  log = 705379059,
-  api_username = "dsvjdjkvkjbot"
+  owner = 941018868,235442093
+  sudoers = {0},
+  log = 941018868,235442093,
+  api_username = "Alfa4xbot"
 }
 
 return _
