@@ -1,5 +1,5 @@
-token = " "
-owner = 0000000
-sudoers = [00000000,000000000,00000000,0000000]
+token = "1018549500:AAHsvW2EvrRMEy0JCbPti-dnenHa2w1uElc"
+owner = [941018868,235442093]
+sudoers = []
 bot_id = 0000000
 bot_hash = "GroupHelper"
